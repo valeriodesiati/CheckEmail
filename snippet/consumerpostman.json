@@ -1,0 +1,29 @@
+{
+    "next": null,
+    "data": [
+        {
+            "id": "ca7a3cb3-c866-4a1b-8fd2-ad905a9bc7d6",
+            "key": "GnM7vAPIzIO1vhwEBKdUB5AQH1tvmQqN",
+            "tags": null,
+            "created_at": 1652775721,
+            "consumer": {
+                "id": "3c512896-b788-47f6-86d3-70dc5c84a8aa"
+            },
+            "secret": "FVRjA4h7dGPK9kOHRAO3qePL94U8DFQx",
+            "algorithm": "HS256",
+            "rsa_public_key": null
+        },
+        {
+            "id": "e183bb4e-2a05-4417-ba91-3982a0faa818",
+            "key": "Ox6xJqVGdNYAPicwfT0ROSNupC22DLRS",
+            "tags": null,
+            "created_at": 1653034336,
+            "consumer": {
+                "id": "3c512896-b788-47f6-86d3-70dc5c84a8aa"
+            },
+            "secret": "v9sWJ8fw7gatQxTVZd38UwVZICJWvXvy",
+            "algorithm": "HS256",
+            "rsa_public_key": null
+        }
+    ]
+}
